@@ -5,7 +5,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-# QR Code Component - Frontend Mentor
+# QR Code Component
 
 A simple HTML and CSS project from Frontend Mentor to build a QR code component based on the given design.  
 
