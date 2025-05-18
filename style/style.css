@@ -12,16 +12,15 @@ body {
     font-size: 15px;
     -webkit-text-size-adjust: 100%;
     /* جلوگیری از تغییر اندازه فونت در Safari */
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 
 .box {
     background-color: hsl(0, 0%, 100%);
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     width: 200px;
     height: auto;
     border-radius: 10px;
@@ -74,4 +73,3 @@ p {
         width: 300px !important;
     }
 }
-
